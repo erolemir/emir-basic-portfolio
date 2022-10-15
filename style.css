@@ -61,7 +61,7 @@ main .right-side .content .logos{
   display: flex;
 }
 main .right-side .content .logos a{
-    font-size:2rem;
+    font-size:1.5rem;
     color:rgba(46, 58, 89, 1) ;
     margin-left: 60px;
     gap: 3px;
