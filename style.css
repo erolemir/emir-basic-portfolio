@@ -41,7 +41,7 @@ main .right-side .content img{
     border: 1.5px black solid;
     position: fixed;
     left: 17.25vw;
-    top: 155px; /* yukarı al */
+    top: 230px; /* yukarı al */
 }
 
 main .right-side .content .content__text{
@@ -63,7 +63,7 @@ main .right-side .content .logos{
 main .right-side .content .logos a{
     font-size:1.5rem;
     color:rgba(46, 58, 89, 1) ;
-    margin-left: 60px;
+    margin-left: 120px;
     gap: 3px;
     margin-top: 20px;
 }
